@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlipsky
+- 👋 Hi, I’m Max
 - 👀 I’m interested in learning Python and C# and hopefully find some programming friends here :)
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
